@@ -16,4 +16,3 @@ def move(board, pos, char = "X")
   return board
 end
 
-board = move
